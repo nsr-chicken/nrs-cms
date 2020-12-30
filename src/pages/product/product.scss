@@ -1,0 +1,14 @@
+.product-page{
+    .card{
+        &.card-deActive{
+            background-color: #EEF0F8;
+        }
+        .card-img-top{
+            max-height: 250px;
+            min-height: 250px;
+        }
+        .card-text{
+            height: 95px;
+        }
+    }
+}

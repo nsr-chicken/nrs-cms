@@ -1,0 +1,10 @@
+.banner-page{
+    .custom-file-label{
+        height: calc(1.5em + 0.75rem + 6px);
+        
+        &:after{
+            height: 36px;
+            font-size: 16px;
+        }
+    }
+}
